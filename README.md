@@ -13,25 +13,35 @@ Este é um aplicativo simples de gestão de encomendas, desenvolvido em **React 
 ### Pré-requisitos:  
 - **Node.js** e **npm** instalados.  
 - **Expo CLI** instalado globalmente:
+  
   ```bash
-  npm install -g expo-cli  
+  npm install -g expo-cli
+  ``` 
 
 ## Instalação:
-- 1. Clone o repositório:
+
+1. Clone o repositório:
+
 ```bash
 git clone https://github.com/michellebarllet/gestao-de-encomendas-saldanha-park.git  
 cd gestao-encomendas-saldanha-park  
+```
 
-- 2. Instale nas depêndencias
+2. Instale nas depêndencias:
+
 ```bash
-npm install  
+npm install
+```
 
-- 3. Inicie o aplicativo:
+3. Inicie o aplicativo:
+
 ```bash
-npx expo start  
+npx expo start
+```
 
-- 4. Escaneie o QR code usando o app Expo Go no seu dispositivo móvel para rodar o aplicativo.
+4. Escaneie o QR code usando o app Expo Go no seu dispositivo móvel para rodar o aplicativo.
 
-## Tecnologias Utilizadas
-- React Native
-- AsyncStorage para armazenamento local
+### Tecnologias Utilizadas:
+
+- **React Native**
+- **AsyncStorage** para armazenamento local
